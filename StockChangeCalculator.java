@@ -1,7 +1,7 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class index {
+public class StockChangeCalculator {
     public static void main(String[] args) {
         Scanner get = new Scanner(System.in);
 
